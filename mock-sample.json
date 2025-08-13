@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "nome": "João Silva",
+        "email": "joao.silva@email.com",
+        "idade": 28,
+        "cargo": "Desenvolvedor Frontend",
+        "salario": 8500.00,
+        "departamento": "Tecnologia",
+        "dataAdmissao": "2022-03-15",
+        "ativo": true
+    },
+    {
+        "id": 2,
+        "nome": "Maria Santos",
+        "email": "maria.santos@email.com",
+        "idade": 32,
+        "cargo": "Analista de Sistemas",
+        "salario": 9200.00,
+        "departamento": "Tecnologia",
+        "dataAdmissao": "2021-08-10",
+        "ativo": true
+    },
+    {
+        "id": 3,
+        "nome": "Pedro Oliveira",
+        "email": "pedro.oliveira@email.com",
+        "idade": 25,
+        "cargo": "Designer UX/UI",
+        "salario": 7800.00,
+        "departamento": "Design",
+        "dataAdmissao": "2023-01-20",
+        "ativo": true
+    },
+    {
+        "id": 4,
+        "nome": "Ana Costa",
+        "email": "ana.costa@email.com",
+        "idade": 29,
+        "cargo": "Gerente de Projetos",
+        "salario": 12000.00,
+        "departamento": "Gestão",
+        "dataAdmissao": "2020-05-12",
+        "ativo": true
+    },
+    {
+        "id": 5,
+        "nome": "Carlos Ferreira",
+        "email": "carlos.ferreira@email.com",
+        "idade": 35,
+        "cargo": "Desenvolvedor Backend",
+        "salario": 9800.00,
+        "departamento": "Tecnologia",
+        "dataAdmissao": "2019-11-08",
+        "ativo": false
+    },
+    {
+        "id": 6,
+        "nome": "Lucia Rodrigues",
+        "email": "lucia.rodrigues@email.com",
+        "idade": 27,
+        "cargo": "Analista de Marketing",
+        "salario": 6500.00,
+        "departamento": "Marketing",
+        "dataAdmissao": "2022-09-03",
+        "ativo": true
+    },
+    {
+        "id": 7,
+        "nome": "Roberto Lima",
+        "email": "roberto.lima@email.com",
+        "idade": 31,
+        "cargo": "Arquiteto de Software",
+        "salario": 15000.00,
+        "departamento": "Tecnologia",
+        "dataAdmissao": "2018-04-25",
+        "ativo": true
+    },
+    {
+        "id": 8,
+        "nome": "Fernanda Alves",
+        "email": "fernanda.alves@email.com",
+        "idade": 26,
+        "cargo": "Analista de Recursos Humanos",
+        "salario": 5800.00,
+        "departamento": "Recursos Humanos",
+        "dataAdmissao": "2023-02-14",
+        "ativo": true
+    },
+    {
+        "id": 9,
+        "nome": "Marcos Pereira",
+        "email": "marcos.pereira@email.com",
+        "idade": 33,
+        "cargo": "Coordenador de Vendas",
+        "salario": 11500.00,
+        "departamento": "Vendas",
+        "dataAdmissao": "2020-12-01",
+        "ativo": true
+    },
+    {
+        "id": 10,
+        "nome": "Juliana Souza",
+        "email": "juliana.souza@email.com",
+        "idade": 24,
+        "cargo": "Estagiária de TI",
+        "salario": 2500.00,
+        "departamento": "Tecnologia",
+        "dataAdmissao": "2023-08-15",
+        "ativo": true
+    }
+]
